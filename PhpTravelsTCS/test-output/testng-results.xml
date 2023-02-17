@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-17T11:52:41 IST" name="Default suite" finished-at="2023-02-17T11:53:02 IST" duration-ms="21217">
+    <groups>
+    </groups>
+    <test started-at="2023-02-17T11:52:41 IST" name="Default test" finished-at="2023-02-17T11:53:02 IST" duration-ms="21217">
+      <class name="com.phptravelsBaseclass.AdminBookingCancel">
+        <test-method is-config="true" signature="onSetup()[pri:0, instance:com.phptravelsBaseclass.AdminBookingCancel@750e2b97]" started-at="2023-02-17T11:52:38 IST" name="onSetup" finished-at="2023-02-17T11:52:41 IST" duration-ms="2822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onSetup -->
+        <test-method is-config="true" signature="adminLog()[pri:0, instance:com.phptravelsBaseclass.AdminBookingCancel@750e2b97]" started-at="2023-02-17T11:52:41 IST" name="adminLog" finished-at="2023-02-17T11:52:48 IST" duration-ms="7570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminLog -->
+        <test-method signature="cancelBooking()[pri:0, instance:com.phptravelsBaseclass.AdminBookingCancel@750e2b97]" started-at="2023-02-17T11:52:48 IST" name="cancelBooking" finished-at="2023-02-17T11:53:02 IST" duration-ms="13618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cancelBooking -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.phptravelsBaseclass.AdminBookingCancel@750e2b97]" started-at="2023-02-17T11:53:02 IST" name="Teardown" finished-at="2023-02-17T11:53:04 IST" duration-ms="2258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- com.phptravelsBaseclass.AdminBookingCancel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
